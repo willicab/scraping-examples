@@ -19,4 +19,7 @@ There are some scripts to extract information about seismic events in different 
 1. `sismosve.php` get the information from [http://www.funvisis.gob.ve](http://www.funvisis.gob.ve) ([https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA](https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA))
 
 ### Baldwin Realtors
-Get a directory info of agents in [http://www.baldwinrealtors.org](baldwinrealtors.org)
+Get a directory info of agents from [baldwinrealtors.org](http://www.baldwinrealtors.org)
+
+### Zyagen
+Get all products info from [zyagen.com](http://zyagen.com)
