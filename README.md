@@ -1,7 +1,8 @@
 # scraping-examples
 A list of scripts in which I have worked
 
-## Dolar scripts
+## PHP
+### Dolar scripts
 There are some scripts to extract information about the value of the dollar from different sources
 
 1. `bolivarcucuta.php` get the information from [http://bolivarcucuta.com](http://bolivarcucuta.com)
@@ -10,9 +11,12 @@ There are some scripts to extract information about the value of the dollar from
 
 You can see these and other scripts in action at [https://t.me/DolarAlMomento](https://t.me/DolarAlMomento)
 
-## Sismos Scripts
+### Sismos Scripts
 There are some scripts to extract information about seismic events in different countries
 
 1. `sismoscl.php` get the information from [http://www.sismologia.cl](http://www.sismologia.cl) ([https://t.me/TgChile](https://t.me/TgChile))
 1. `sismospe.php` get the information from [http://www.igp.gob.pe](http://www.igp.gob.pe) ([https://t.me/sismoPeru](https://t.me/sismoPeru))
 1. `sismosve.php` get the information from [http://www.funvisis.gob.ve](http://www.funvisis.gob.ve) ([https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA](https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA))
+
+### Baldwin Realtors
+Get a directory info of agents in [http://www.baldwinrealtors.org](baldwinrealtors.org)
