@@ -23,3 +23,6 @@ Get a directory info of agents from [baldwinrealtors.org](http://www.baldwinreal
 
 ### Zyagen
 Get all products info from [zyagen.com](http://zyagen.com)
+
+### City-Data
+Get info from all USA's cities from [city-data.com](http://www.city-data.com/)
