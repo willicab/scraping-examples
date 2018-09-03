@@ -28,4 +28,5 @@ Obtain all products info from [zyagen.com](http://zyagen.com)
 Obtain information from all USA's cities from [city-data.com](http://www.city-data.com/)
 
 ### Consumer Affairs Victoria
-Obtain information from licensed estate agents from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
+1. `estate-agents.php` Obtain information from licensed estate agents from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
+1. `rooming-houses.php` Obtain information from rooming houses from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
