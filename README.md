@@ -19,10 +19,13 @@ There are some scripts to extract information about seismic events in different 
 1. `sismosve.php` get the information from [http://www.funvisis.gob.ve](http://www.funvisis.gob.ve) ([https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA](https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA))
 
 ### Baldwin Realtors
-Get a directory info of agents from [baldwinrealtors.org](http://www.baldwinrealtors.org)
+Obtain a directory info of agents from [baldwinrealtors.org](http://www.baldwinrealtors.org)
 
 ### Zyagen
-Get all products info from [zyagen.com](http://zyagen.com)
+Obtain all products info from [zyagen.com](http://zyagen.com)
 
 ### City-Data
-Get info from all USA's cities from [city-data.com](http://www.city-data.com/)
+Obtain information from all USA's cities from [city-data.com](http://www.city-data.com/)
+
+### Consumer Affairs Victoria
+Obtain information from licensed estate agents from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
