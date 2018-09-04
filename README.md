@@ -19,14 +19,17 @@ There are some scripts to extract information about seismic events in different 
 1. `sismosve.php` get the information from [http://www.funvisis.gob.ve](http://www.funvisis.gob.ve) ([https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA](https://t.me/joinchat/AAAAAEJXSsCWnafdokiAEA))
 
 ### Baldwin Realtors
-Obtain a directory info of agents from [baldwinrealtors.org](http://www.baldwinrealtors.org)
+Get a directory info of agents from [baldwinrealtors.org](http://www.baldwinrealtors.org)
 
 ### Zyagen
-Obtain all products info from [zyagen.com](http://zyagen.com)
+Get all products info from [zyagen.com](http://zyagen.com)
 
 ### City-Data
-Obtain information from all USA's cities from [city-data.com](http://www.city-data.com/)
+Get information from all USA's cities from [city-data.com](http://www.city-data.com/)
 
 ### Consumer Affairs Victoria
-1. `estate-agents.php` Obtain information from licensed estate agents from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
-1. `rooming-houses.php` Obtain information from rooming houses from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
+1. `estate-agents.php` Get information from licensed estate agents from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
+1. `rooming-houses.php` Get information from rooming houses from [consumer.vic.gov.au/](https://www.consumer.vic.gov.au/)
+
+### Amazon
+1. `isbn.php` Get the name and price of a list of ISBN codes from [amazon.com/](https://www.amazon.com/)
