@@ -37,6 +37,9 @@ Get information from all USA's cities from [city-data.com](http://www.city-data.
 ### IMDB
 1. `info.php` Get the movie's information of a list of codes from [imdb.com](https://www.imdb.com)
 
+### Giphy
+1. `download.php` Download all GIF files a list of keywords from [giphy.com](https://giphy.com)
+
 ## Python
 ### Zillow
 Get rentals information from [zillow.com](https://www.zillow.com)
