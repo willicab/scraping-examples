@@ -43,3 +43,6 @@ Get information from all USA's cities from [city-data.com](http://www.city-data.
 ## Python
 ### Zillow
 Get rentals information from [zillow.com](https://www.zillow.com)
+
+### szukajwarchiwach.pl
+Downloads images from [szukajwarchiwach.pl](https://szukajwarchiwach.pl)
