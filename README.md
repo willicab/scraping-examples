@@ -46,3 +46,7 @@ Get rentals information from [zillow.com](https://www.zillow.com)
 
 ### szukajwarchiwach.pl
 Downloads images from [szukajwarchiwach.pl](https://szukajwarchiwach.pl)
+
+### telegramcryptogroups.com
+Get groups information from [telegramcryptogroups.com](https://telegramcryptogroups.com)
+
